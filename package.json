@@ -1,0 +1,29 @@
+{
+  "name": "certificate-tracker",
+  "version": "1.0.0",
+  "description": "<div id=\"top\"></div>\r <!--\r *** Thanks for checking out the Best-README-Template. If you have a suggestion\r *** that would make this better, please fork the repo and create a pull request\r *** or simply open an issue with the tag \"enhancement\".\r *** Don't forget to give the project a star!\r *** Thanks again! Now go create something AMAZING! :D\r -->",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeBarbarian/certificate-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeBarbarian/certificate-tracker/issues"
+  },
+  "homepage": "https://github.com/CodeBarbarian/certificate-tracker#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "log-timestamp": "^0.3.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.4"
+  }
+}
